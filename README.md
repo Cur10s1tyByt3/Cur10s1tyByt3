@@ -60,4 +60,4 @@
 😸 & 𝘖𝘩! 𝘐'𝘮 𝘢 𝘤𝘢𝘵 𝘭𝘰𝘷𝘦𝘳 𝘵𝘰𝘰 :3
 </p>
 
-![CuriosityByte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=great-gatsby)
+![Stats](https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=great-gatsby)
