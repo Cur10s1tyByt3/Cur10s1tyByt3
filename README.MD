@@ -1,63 +1,218 @@
-<p align="center">
-  <img alt="btb-logo" src="./Images/Logo.png#gh-dark-mode-only" width="770" />
-   <img alt="btb-logo" src="./Images/Logo.png#gh-light-mode-only" width="770" />
-</p>
+<div align="center">
+  
+<img alt="logo" src="./Images/Logo.png#gh-dark-mode-only" width="760" />
+<img alt="logo" src="./Images/Logo.png#gh-light-mode-only" width="760" />
 
-<div align=center style="background-color: transparent;">
-	<img alt="Stars" src="https://img.shields.io/github/stars/Cur10s1tyByt3?label=stars"/>
-	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Cur10s1tyByt3"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Reverse+Engineering;Malware+Analysis+%7C+.NET+Specialist;K3yb04rd1ng+from+Cur10s1tySp4c3;Ethical+Research+%7C+Windows+Internals" alt="Typing SVG" />
+
+![Stars](https://img.shields.io/github/stars/Cur10s1tyByt3?label=Stars&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Cur10s1tyByt3)
+![Followers](https://img.shields.io/github/followers/Cur10s1tyByt3?label=Followers&style=social)
+
 </div>
 
-<br />
+---
 
-<p align="center">
-> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗖𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆𝗕𝘆𝘁𝗲, 𝗮.𝗸.𝗮. "𝗖𝘂𝗿𝟭𝟬𝘀𝟭𝘁𝘆𝗕𝘆𝘁𝟯", 𝗮𝗻 𝗜𝗧 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 (𝘄𝗶𝘁𝗵 𝗮 𝘀𝘁𝗿𝗼𝗻𝗴 𝗽𝗮𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗖𝘆𝗯𝗲𝗿𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆) 𝗱𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 𝗮𝗻 𝘂𝗻𝗾𝘂𝗲𝗻𝗰𝗵𝗮𝗯𝗹𝗲 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝘁𝗼 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝘁𝗵𝗲 𝗱𝘆𝗻𝗮𝗺𝗶𝗰 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗹𝗮𝗻𝗱𝘀𝗰𝗮𝗽𝗲. 𝗠𝘆 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝗮𝗹𝗺 𝗶𝗴𝗻𝗶𝘁𝗲𝗱 𝘄𝗵𝗲𝗻 𝗜 𝘄𝗮𝘀 𝗷𝘂𝘀𝘁 𝟭𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗹𝗱, 𝗮𝗻𝗱 𝗶𝘁 𝗵𝗮𝘀 𝘀𝗶𝗻𝗰𝗲 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗱 𝗶𝗻𝘁𝗼 𝗮 𝗱𝗲𝗱𝗶𝗰𝗮𝘁𝗲𝗱 𝗽𝘂𝗿𝘀𝘂𝗶𝘁. 𝗜 𝗮𝗶𝗺 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝘁𝗵𝗲 𝗶𝗻𝘁𝗿𝗶𝗰𝗮𝘁𝗲 𝘄𝗼𝗿𝗸𝗶𝗻𝗴𝘀 𝗼𝗳 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗮𝗻𝗱 𝗶𝘁𝘀 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗺𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗻𝗲𝗲𝗱𝗲𝗱 𝘁𝗼 𝗰𝗼𝘂𝗻𝘁𝗲𝗿𝗮𝗰𝘁 𝘁𝗵𝗿𝗲𝗮𝘁𝘀 𝗮𝗻𝗱 𝘀𝗮𝗳𝗲𝗴𝘂𝗮𝗿𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗳𝗿𝗼𝗺 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝗱𝗮𝗺𝗮𝗴𝗲.
-</p>
+## 🎯 About Me
 
-<p align="center">
-𝗦𝘁𝗮𝗿𝘁𝗲𝗱 𝘄𝗶𝘁𝗵 𝗺𝗼𝗯𝗶𝗹𝗲 𝗴𝗮𝗺𝗲 𝗵𝗮𝗰𝗸𝗶𝗻𝗴 (𝗔𝗣𝗞 𝗺𝗼𝗱𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀), 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗲𝗱 𝗝𝗮𝘃𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗳𝗼𝗿 𝗮 𝘁𝗶𝗺𝗲. 𝗜 𝘁𝗵𝗲𝗻 𝗱𝗲𝗹𝘃𝗲𝗱 𝗶𝗻𝘁𝗼 𝗺𝗮𝗹𝘄𝗮𝗿𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗺𝗮𝗹𝘄𝗮𝗿𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝘀𝗼𝗺𝗲 𝗮𝘀𝗽𝗲𝗰𝘁𝘀 𝗼𝗳 .𝗡𝗘𝗧 𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝘂𝘀𝗶𝗻𝗴 𝘁𝗼𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 𝗱𝗻𝗦𝗽𝘆, .𝗡𝗘𝗧 𝗥𝗲𝗳𝗹𝗲𝗰𝘁𝗼𝗿, 𝗜𝗟𝗦𝗽𝘆, 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗛𝗮𝗰𝗸𝗲𝗿, 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗛𝗮𝗰𝗸𝗲𝗿 {𝗻𝗼𝘄 𝗸𝗻𝗼𝘄𝗻 𝗮𝘀 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗳𝗼𝗿𝗺𝗲𝗿}, 𝘅𝟵𝟲𝗱𝗯𝗴, 𝗛𝘅𝗗, 𝗮𝗻𝗱 𝗺𝗼𝗿𝗲).
-</p>
+**Curiosity-led cybersecurity researcher** with 12+ years in the field. Started at age 12 with APK modding and memory manipulation, evolved into malware analysis, .NET reverse engineering, and building practical security tooling for Windows environments.
 
-<p align="center">
-𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗺𝘆 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀, 𝗜 𝗮𝗺 𝗵𝗶𝗴𝗵𝗹𝘆 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗮𝗻𝗱 𝗵𝗮𝘃𝗲 𝗮 𝗸𝗲𝗲𝗻 𝗲𝘆𝗲 𝗳𝗼𝗿 𝗱𝗲𝘁𝗮𝗶𝗹. 𝗜 𝗮𝗺 𝗮𝗹𝘀𝗼 𝗮 𝗾𝘂𝗶𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗲𝗿, 𝗰𝗼𝗻𝘀𝘁𝗮𝗻𝘁𝗹𝘆 𝘀𝗲𝗲𝗸𝗶𝗻𝗴 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝘁𝗼 𝗲𝘅𝗽𝗮𝗻𝗱 𝗺𝘆 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗮𝗻𝗱 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲, 𝗽𝗮𝗿𝘁𝗶𝗰𝘂𝗹𝗮𝗿𝗹𝘆 𝗶𝗻 𝘁𝗵𝗲 𝗿𝗲𝗮𝗹𝗺 𝗼𝗳 𝗜𝗧 𝗮𝗻𝗱 𝗖𝘆𝗯𝗲𝗿𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆. <
-</p>
+**Philosophy:** If it runs, loads, or hides in memory → it's worth understanding. All research is ethical, reproducible, and documented for the community.
 
-<p align="center">
-> 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻𝗶𝗻𝗴 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹𝘀 𝗶𝗻 <
-</p>
+```bash
+┌─[cur10s1ty@sp4c3]─[~]
+└──╼ whoami
+├── 🔍 Malware Analyst & Reverse Engineer
+├── 🛡️ Windows Security Researcher  
+├── 🧬 .NET Internals Specialist
+├── 📱 Android Security Enthusiast
+└── 🐱 Cat Lover (Most Important!)
+```
 
-<div align=center style="background-color: transparent;">
-	<img src="https://skillicons.dev/icons?i=c,cpp,python,dotnet,rust,html,css,java"/>
+---
+
+## 🛠️ Arsenal & Expertise
+
+<div align="center">
+
+### Core Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 </div>
 
-<br />
+### 🔬 Reverse Engineering Stack
+| **Category** | **Tools & Techniques** |
+|--------------|------------------------|
+| **Static Analysis** | dnSpyEx, ILSpy, .NET Reflector, Resource Hacker |
+| **Dynamic Analysis** | x64dbg, System Informer (Process Hacker), WinAPIOverride |
+| **Hex/Binary Editors** | HxD, 010 Editor, PE-bear |
+| **Malware Analysis** | Controlled VMs, Behavioral Analysis, IOC Extraction |
+| **Network Analysis** | Wireshark, TCPView, Process Monitor |
+| **Mobile Security** | APKTool, Frida, ADB, jadx |
 
-<p align="center">
-> 𝗠𝘆 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 <
+---
 
-<p align="center">
->> 𝘼𝙡𝙡-𝙞𝙣-𝙊𝙣𝙚 𝙒𝙞𝙣𝙙𝙤𝙬𝙨-𝙗𝙖𝙨𝙚𝙙 𝙍𝙚𝙫𝙚𝙧𝙨𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙠𝙞𝙩, 𝙨𝙥𝙚𝙘𝙞𝙛𝙞𝙘𝙖𝙡𝙡𝙮 𝙙𝙚𝙨𝙞𝙜𝙣𝙚𝙙 𝙛𝙤𝙧 𝙗𝙤𝙩𝙝 𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙖𝙣𝙙 𝘿𝙚𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮. 𝙄𝙩 𝙚𝙣𝙘𝙤𝙢𝙥𝙖𝙨𝙨𝙚𝙨 𝙖 𝙘𝙤𝙢𝙥𝙧𝙚𝙝𝙚𝙣𝙨𝙞𝙫𝙚 𝙨𝙚𝙩 𝙤𝙛 𝙩𝙤𝙤𝙡𝙨 𝙛𝙤𝙧 𝙈𝙖𝙡𝙬𝙖𝙧𝙚 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨, 𝙋𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙏𝙚𝙨𝙩𝙞𝙣𝙜, 𝙖𝙣𝙙 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙁𝙤𝙧𝙚𝙣𝙨𝙞𝙘𝙨 <<
-</p>
+## 🔥 Featured Projects
 
-<p align="center">
-> 𝗜'𝗺 𝗱𝗶𝘃𝗶𝗻𝗴 𝗱𝗲𝗲𝗽𝗲𝗿 𝗶𝗻𝘁𝗼 <
+### 🛡️ **All-in-One Windows RE Toolkit**
+> Comprehensive reverse engineering and security analysis platform
 
-<p align="center">
->> 𝘾/𝘾++ 𝙖𝙣𝙙 𝙋𝙮𝙩𝙝𝙤𝙣 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝙍𝙚𝙫𝙚𝙧𝙨𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜, 𝙖𝙣𝙙 𝘼𝙄-𝙈𝙇 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙞𝙣 𝘾𝙮𝙗𝙚𝙧𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 <<
-</p>
+**🎯 Purpose:** Streamlined workflows for malware analysis, PE inspection, and behavioral monitoring  
+**⚡ Tech Stack:** C#, .NET Core, WinAPI, Windows Internals  
+**🔧 Features:**
+- Automated PE analysis and unpacking detection
+- Memory dump analysis and pattern recognition  
+- IOC extraction and threat intelligence integration
+- Clean, modular architecture for extensibility
 
-<p align="center">
-> 𝗜𝗻 𝗺𝘆 𝗳𝗿𝗲𝗲 𝘁𝗶𝗺𝗲 <
+**📊 Status:** 🚧 Active Development | 🎯 Focus: Analyst productivity & accuracy
 
-<p align="center">
->> 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙚𝙣𝙜𝙖𝙜𝙞𝙣𝙜 𝙞𝙣 𝙍𝙚𝙫𝙚𝙧𝙨𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 <<
-</p>
+---
 
-<p align="center">
-> 𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗹𝗶𝗸𝗲-𝗺𝗶𝗻𝗱𝗲𝗱 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹𝘀 𝗮𝗻𝗱 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝘁𝗼 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗼𝘁𝗵𝗲𝗿𝘀 𝘄𝗵𝗼 𝘀𝗵𝗮𝗿𝗲 𝗮𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝗻 𝗜𝗧/𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆. 𝗙𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝗶𝗳 𝘆𝗼𝘂 𝘄𝗼𝘂𝗹𝗱 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗱𝗶𝘀𝗰𝘂𝘀𝘀 𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝘁𝗼𝗽𝗶𝗰𝘀, 𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗶𝗱𝗲𝗮𝘀, 𝗼𝗿 𝘄𝗼𝗿𝗸 𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿 <
+### 📱 **Android Security Laboratory**  
+> Mobile application security assessment framework
 
-<p align="center">
-𝘢𝘯𝘥 𝘰𝘩, 𝘐'𝘮 𝘢 𝘤𝘢𝘵 𝘭𝘰𝘷𝘦𝘳 𝘵𝘰𝘰! 🐱🐾
-</p>
+**🎯 Purpose:** Safe analysis and modification of Android applications  
+**⚡ Tech Stack:** Python, Java, Bash, Android SDK  
+**🔧 Capabilities:**
+- Static/Dynamic analysis automation
+- APK modification and repackaging
+- Runtime instrumentation with Frida
+- Vulnerability detection patterns
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=great-gatsby)
+---
+
+### 🧠 **AI-Enhanced Security Research**
+> Machine learning applications for cybersecurity
+
+**🎯 Purpose:** Augment analyst capabilities, not replace human expertise  
+**⚡ Focus Areas:**
+- Malware family classification
+- Automated IOC extraction
+- Behavioral pattern recognition
+- False positive reduction in detection systems
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cur10s1tyByt3&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cur10s1tyByt3&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cur10s1tyByt3&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎓 Current Focus & Learning Path
+
+```yaml
+Learning_Trajectory:
+  Advanced_Skills:
+    - "Advanced C/C++ for system-level tooling"
+    - "Windows kernel debugging & internals"  
+    - "Advanced anti-analysis bypass techniques"
+    - "Clean architecture for security tools"
+  
+  Certifications_In_Progress:
+    - "CompTIA ITF+ (80% complete)"
+    - "Practical Malware Analysis specialization"
+  
+  Research_Areas:
+    - "AI/ML threat detection (practical applications)"
+    - "Zero-day research methodologies"
+    - "Advanced persistence mechanisms"
+```
+
+---
+
+## 💪 Core Strengths
+
+<div align="center">
+
+| Strength | Description |
+|----------|-------------|
+| 🔍 **Detail-Oriented** | Meticulous analysis with comprehensive documentation |
+| ⚡ **Rapid Learning** | Quick adaptation to new tools, techniques, and threats |
+| 🧠 **Problem Solving** | Creative approaches to complex security challenges |
+| 🤝 **Collaborative** | Strong knowledge sharing and team-oriented mindset |
+| 🛡️ **Ethical Focus** | Commitment to responsible disclosure and research |
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+### 🎯 **Open for Collaboration:**
+- 🔐 Cybersecurity research projects
+- 🧬 Reverse engineering challenges  
+- 🛠️ Security tool development
+- 📚 Educational content creation
+- 🏆 Bug bounty hunting
+- 🤖 AI/ML security applications
+
+</div>
+
+---
+
+## 🎮 Fun Facts & Personal Touch
+
+```python
+class PersonalSide:
+    def __init__(self):
+        self.hobbies = ["Reverse Engineering", "Malware Analysis", "Tool Development"]
+        self.personality = "🐱 Certified Cat Person"
+        self.motto = "Making digital spaces safer, one byte at a time"
+        self.favorite_debugger = "x64dbg (obviously)"
+    
+    def work_life_balance(self):
+        while True:
+            self.research_security_topics()
+            self.develop_tools()
+            self.contribute_to_community()
+            self.pet_cats()  # Essential for debugging complex malware! 🐾
+            
+    def collaboration_style(self):
+        return "Always excited to work with fellow security researchers!"
+```
+
+**🎵 Currently listening to:** Synthwave while analyzing malware (it just hits different)
+
+---
+
+<div align="center">
+
+### 🏆 Notable Achievements
+
+![](https://img.shields.io/badge/Years_Active-12+-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Samples_Analyzed-1000+-orange?style=flat-square)
+![](https://img.shields.io/badge/Tools_Developed-50+-blue?style=flat-square)
+![](https://img.shields.io/badge/Community_Contributions-Active-purple?style=flat-square)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+**⭐ From [CuriosityByte](https://github.com/Cur10s1tyByt3) with ❤️**  
+*K3yb04rd1ng from Cur10s1tySp4c3* 
+
+</div>
