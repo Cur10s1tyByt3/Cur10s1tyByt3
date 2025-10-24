@@ -14,11 +14,12 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          with:
+        with:
           SETTING_JSON: |
             {
               "type": "normal",
@@ -32,12 +33,15 @@ jobs:
                 "cube_4_color": "#C2940D",
                 "text_color": "#F6C32C"
               }
-            }      
+            }
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
-          if git commit -m "generated"; then
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Generate 3D contribution graph"
             git push
+          else
+            echo "No changes to commit"
           fi
