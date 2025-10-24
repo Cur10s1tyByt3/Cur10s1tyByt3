@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -14,26 +14,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          SETTING_JSON: |
-            {
-              "type": "normal",
-              "config": {
-                "bg_color": "#0d1117",
-                "border_color": "#F6C32C",
-                "cube_color": "#F6C32C",
-                "cube_1_color": "#F6C32C",
-                "cube_2_color": "#E6B800", 
-                "cube_3_color": "#D4A000",
-                "cube_4_color": "#C2940D",
-                "text_color": "#F6C32C"
-              }
-            }
+          SETTING_JSON: settings.json
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
