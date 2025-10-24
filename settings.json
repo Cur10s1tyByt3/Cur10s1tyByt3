@@ -1,0 +1,13 @@
+{
+  "type": "normal",
+  "config": {
+    "bg_color": "#0d1117",
+    "border_color": "#F6C32C",
+    "cube_color": "#F6C32C",
+    "cube_1_color": "#F6C32C",
+    "cube_2_color": "#E6B800",
+    "cube_3_color": "#D4A000",
+    "cube_4_color": "#C2940D",
+    "text_color": "#F6C32C"
+  }
+}
