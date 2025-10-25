@@ -33,7 +33,7 @@ I focus on mastering techniques to counteract threats and safeguard systems, dri
 ├── 📱 Started with APK modifications & game hacking
 ├── ☕ Explored Java programming foundations
 ├── 🦠 Delved into MalDev, Reverse Engineering & Malware Analysis
-├── 🧬 Now into AI Red Teaming & Prompt Engineering
+├── 🧬 Now into AI Red Teaming
 └── 🌀 Next adventure: TBD... (My curiosity decides and whatever the digital realm throws at me next)
 ```
 
