@@ -2,8 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f6c32c&height=80&section=header&text=&fontColor=fff&animation=twinkling" />
   
-  <img alt="logo" src="./Images/Logo.png#gh-dark-mode-only" width="760" />
-  <img alt="logo" src="./Images/Logo.png#gh-light-mode-only" width="760" />
+  <img alt="logo" src="./Images/Logo.png#gh-dark-mode-only" width="650" />
+  <img alt="logo" src="./Images/Logo.png#gh-light-mode-only" width="650" />
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=F6C32C&center=true&vCenter=true&width=720&lines=CyberSecurity+Enthusiast;Malware+Development+%7C+Reverse+Engineering;Windows+Internals+%7C+AI+Red+Teaming;Hyper-Focused+%7C+Unquenchable+Curiosity;K3yb04rd1ng+from+Cur10s1tySp4c3" alt="Typer" />
@@ -67,7 +67,7 @@ I focus on mastering techniques to counteract threats and safeguard systems, dri
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F6C32C&text_color=c9d1d9&icon_color=F6C32C" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cur10s1tyByt3&theme=dark&hide_border=true&background=0d1117&ring=F6C32C&fire=F6C32C&currStreakLabel=F6C32C&sideLabels=F6C32C&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Cur10s1tyByt3&theme=dark&hide_border=true&background=0d1117&ring=F6C32C&fire=F6C32C&currStreakLabel=F6C32C&sideLabels=F6C32C&currStreakNum=c9d1d9&sideNums=c9d1d9" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cur10s1tyByt3&theme=github-compact&bg_color=0d1117&color=F6C32C&line=F6C32C&point=ffffff&area=true&hide_border=true" />
 
