@@ -65,7 +65,7 @@ I focus on mastering techniques to counteract threats and safeguard systems, dri
 <summary><b>✨ Stats & More</b></summary>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F6C32C&text_color=c9d1d9&icon_color=F6C32C" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Cur10s1tyByt3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F6C32C&text_color=c9d1d9&icon_color=F6C32C" />
 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Cur10s1tyByt3&theme=dark&hide_border=true&background=0d1117&ring=F6C32C&fire=F6C32C&currStreakLabel=F6C32C&sideLabels=F6C32C&currStreakNum=c9d1d9&sideNums=c9d1d9" />
   
